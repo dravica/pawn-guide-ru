@@ -9,9 +9,9 @@
 ---
 
 <p align="center">
-  <img src="завантаження (1).png" width="300px" alt="Screenshot 1" />
-  <img src="завантаження (2).png" width="300px" alt="Screenshot 2" />
-  <img src="завантаження (3).png" width="300px" alt="Screenshot 3" />
+  <img src="screenshot1.png" width="300px" alt="Screenshot 1" />
+  <img src="screenshot2.png" width="300px" alt="Screenshot 2" />
+  <img src="screenshot3.png" width="300px" alt="Screenshot 3" />
 </p>
 
 ---
